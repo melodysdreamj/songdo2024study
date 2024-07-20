@@ -32,9 +32,22 @@ dev_dependencies:
   hello_world_page_lego:
   screenutil_lego:
   bot_toast_lego:
+  june_intro_page_lego:
+  palminger_lego:
+  zoops_lego:
+  batjimin_intro_page_lego:
+  mok_intro_page_lego:
+  joel_intro_page_lego:
+  hyun_intro_page_lego:
 
 flutter:
   uses-material-design: true
   assets:
+    - assets/lego/hyun_intro_page_lego/
+    - assets/lego/joel_intro_page_lego/
+    - assets/lego/mok_intro_page_lego/
+    - assets/lego/zoops_lego/
+    - assets/lego/palminger_lego/
+    - assets/lego/june_intro_page_lego/
     - assets/pubdev.svg
     - assets/github.svg
